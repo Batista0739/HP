@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Jacquarda+Bastarda+9&family=Noto+Sans+Gurmukhi:wght@100..900&display=swap');
+
+h1{
+    font-family: 'Dancing Script';
+    text-align: center;
+    font-size: 65px;
+}
+.ph{
+    border: 2px solid gold;
+    border-radius: 15px;
+    background-color: black;
+    color: gold;
+}
+
+.ph > .caixa > p{
+    margin-left: 15px ;
+text-align: center;
+font-size: 30px;
+}
+
+
+.sim{
+    font-size: 75px;
+    background-color: black;
+    color: white;
+}
+
+body{
+    background-color: black;
+    color: gold;
+}
+
+.ben{
+    border: 2px solid red;
+    border-radius: 10px;
+    color: red;
+    font-size: 75px;
+    display: flex;
+    background-color: beige;
+    text-align: center;
+}
+
+.não{
+    border: 2px solid green;
+    border-radius: 10px;
+    color: green;
+    font-size: 75px;
+    display: flex;
+    background-color: silver;
+    text-align: center;
+    margin-left: 10px
+}
+
+
+.Lufa-Lufa{
+    border: 2px solid yellow;
+    border-radius: 10px;
+    color: darkgoldenrod;
+    font-size: 60px;
+    display: flex;
+   text-align: center;
+   background-color: white;
+}
+.lufa{
+    
+width: 450px;
+}
+
+.corvo{
+    border: 2px solid blue;
+    border-radius: 10px;
+    color: blue;
+    font-size: 75px;
+    display: flex;
+    text-align: center;
+   background-color: lightblue;
+}
+.corvo2{
+    width: 1700px;
+}
+
+.chapéu{
+    color: brown;
+    font-size: 50px;
+    display: flex;
+    text-align: center;
+}
+
+.caixa1{
+    width: 4100px;
+}
+
+.mete{
+    width: 2200px;
+}
+
+.oi{
+    height: 300px;
+    width: 1000px;
+}
+
+.casas{
+    display: flex;
+    justify-content: flex-end;
+font-size: 50px;
+color: white;
+
+}   
+
+.house{
+    width: 200px;
+}
+
+.um{
+    display: flex;
+    justify-content: flex-end;
+font-size: 50px;
+color: cadetblue;   
+}
+
+.dois{
+    display: flex;
+    justify-content: flex-end;
+font-size: 50px;
+color: greenyellow;   
+text-align: center;
+}
+
+.pau{
+width: 1250px;
+}
+
+.a{
+    display: flex;
+    justify-content: flex-end;
+font-size: 50px;
+color: darkorange; 
+text-align: center;
+}
+
+.b{
+    display: flex;
+    justify-content: flex-end;
+font-size: 50px;
+color: crimson; 
+text-align: center;
+}
+
+.felix{
+    display: flex;
+    justify-content: flex-end;
+font-size: 50px;
+color: lightblue; 
+text-align: center;  
+}
+
+.x{
+    width: 5000px;
+}
+
+.aim{
+    display: flex;
+    justify-content: flex-end;
+font-size: 50px;
+color: silver; 
+text-align: center; 
+}
+
+.aquieta{
+    width: 320px;
+height:-500px;
+}
+
+.z{
+    display: flex;
+    justify-content: flex-end;
+font-size: 50px;
+color: goldenrod; 
+text-align: center;  
+}
+
+.w{
+    width: 570px;
+    height: 780px;
+}
+
+.e{
+    display: flex;
+    justify-content: flex-end;
+font-size: 50px;
+color: goldenrod; 
+text-align: center;  
+}
+
+.ana{
+    width: 570px;
+    height: 780px;
+}
